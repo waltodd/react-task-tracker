@@ -19,7 +19,10 @@ body {
   padding: 30px;
   border-radius: 5px;
 }
-
+a {
+  text-decoration: none;
+  color: #266385;
+}
 .header {
   display: flex;
   justify-content: space-between;
